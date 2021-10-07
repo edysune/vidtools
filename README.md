@@ -1,5 +1,7 @@
 This Repo provides various python tools for videos.
 
+# framer.py and motion_detector.py
+
 framer.py - Takes a Movie file, and splits it into frames.
 
 motion_detector.py - Takes a Movie file, and detects motion, removing out all frames that do not have any significant change.
@@ -19,3 +21,11 @@ Todo for future updates:
 3. Better usage of shared libraries - remove redundancies
 4. Useage for Threading, allowing better performance for folders
 5. Unit tests, and added tests
+
+
+# searchDirectory.py
+
+searches directory systems
+
+Install Steps:
+1. Python3
