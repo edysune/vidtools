@@ -21,11 +21,3 @@ Todo for future updates:
 3. Better usage of shared libraries - remove redundancies
 4. Useage for Threading, allowing better performance for folders
 5. Unit tests, and added tests
-
-
-# searchDirectory.py
-
-searches directory systems
-
-Install Steps:
-1. Python3
